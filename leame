@@ -1,0 +1,17 @@
+pagina para admin
+
+http://127.0.0.1:8000/admin/
+
+nose si sea necesario, pero el superusuario que use para crear el 
+servicio es:
+
+nombre:kris
+contraseña:21570151-4S 
+
+pagina para el servicio(me quedo horrible)
+
+http://127.0.0.1:8000/servicio/nservicios
+
+pagina original
+
+http://127.0.0.1:8000/servicio/index
